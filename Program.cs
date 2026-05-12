@@ -1,1 +1,1 @@
-﻿
+﻿Console.WriteLine("Welcome to the Arena! What is your name?");
