@@ -6,7 +6,7 @@ public class Player
     public int Health { get; private set; }
     public string weapon = "Sword";
 
-    public Player(string name, int health = 20)
+    public Player(string name, int health)
     {
         Name = name;
         Health = health;
