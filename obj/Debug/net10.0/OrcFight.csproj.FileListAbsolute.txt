@@ -1,0 +1,15 @@
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\bin\Debug\net10.0\OrcFight.exe
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\bin\Debug\net10.0\OrcFight.deps.json
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\bin\Debug\net10.0\OrcFight.runtimeconfig.json
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\bin\Debug\net10.0\OrcFight.dll
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\bin\Debug\net10.0\OrcFight.pdb
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.AssemblyInfoInputs.cache
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.AssemblyInfo.cs
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.csproj.CoreCompileInputs.cache
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.sourcelink.json
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.dll
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\refint\OrcFight.dll
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.pdb
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\OrcFight.genruntimeconfig.cache
+C:\Users\jakes\Projects\CsharpProjects\OrcFight\obj\Debug\net10.0\ref\OrcFight.dll

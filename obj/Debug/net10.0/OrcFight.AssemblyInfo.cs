@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrcFight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1137c8883c74057be89bac6789893705c0c83178")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04aa1205210a9f4b43051ae285a27a99ae58ad0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrcFight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrcFight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
